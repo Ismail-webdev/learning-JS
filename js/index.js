@@ -7,9 +7,9 @@
 
 // String
 
-let firstName = "Ismail";
-let lastName = "Ali";
-let random = "Learning JS";
+// let firstName = "Ismail";
+// let lastName = "Ali";
+// let random = "Learning JS";
 
 // Access String character
 // console.log(firstName[0]);

@@ -34,8 +34,8 @@
 
 // JS Numbers
 
-let radius = 15;
-const pi = 3.14;
+// let radius = 15;
+// const pi = 3.14;
 
 
 // Addition,Sub,Multi,Division,Power,Percentage
@@ -62,3 +62,15 @@ const pi = 3.14;
 // Not a Number
 // let random = "XYZ"
 // console.log(radius / random); //output is NaN
+
+// Template Literals
+
+// let firstName = "Ismail";
+// let lastName = "Ali";
+// let age = 21;
+
+// Without template Literals
+// console.log("My Name is " + firstName + " " + lastName + ", " + "i'm " + age + " Year's old");
+
+// with template literals
+// console.log(`My Name is ${firstName} ${lastName}, i'm ${age} Year's old`);

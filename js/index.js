@@ -31,3 +31,34 @@
 // console.log(firstName.startsWith("I"));
 // console.log(firstName.endsWith("l"));
 // console.log(random.includes("JS"));
+
+// JS Numbers
+
+let radius = 15;
+const pi = 3.14;
+
+
+// Addition,Sub,Multi,Division,Power,Percentage
+// console.log(11 + 12, 11 - 12, 11 * 12, 11 / 12, 11 ** 12, 11 % 12);
+
+// Area of circle
+// let area = pi * radius ** 2
+// console.log(area);
+
+// Increment Techniques or Decrement Techniques
+
+// Increment 1
+// radius = radius + 1; || radius++;
+
+// Decrement 1
+// radius = radius - 1; || radius--;
+
+// Increment more than 1
+// radius = radius + 5; || radius += 5;
+
+// Decrement more than 1
+// radius = radius - 5; || radius -= 5;
+
+// Not a Number
+// let random = "XYZ"
+// console.log(radius / random); //output is NaN

@@ -74,3 +74,27 @@
 
 // with template literals
 // console.log(`My Name is ${firstName} ${lastName}, i'm ${age} Year's old`);
+
+// Array
+// let items = ["bread", "butter", "salt", "jam"];
+// let newitems = ["pizza", "water"];
+// Access element from array
+// console.log(items[3]);
+
+// Change element in array || overwrite element
+// items[3] = "pizza"
+
+// Properties of array
+// console.log(items.length);
+
+// Methods
+// console.log(items.join(",")); // combine element in single string
+// console.log(items.indexOf("bread")); //find element index position
+// console.log(items.concat(newitems)); //concat new array into old
+
+// push 👇
+// console.log(items.push("water")); //destructive method it change original array
+
+// pop
+// console.log(items.pop()); //also destructive method
+// console.log(items);
